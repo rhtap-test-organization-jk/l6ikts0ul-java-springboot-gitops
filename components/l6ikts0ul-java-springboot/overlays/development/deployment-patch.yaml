@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: tssc-quay-quay-tssc-quay.apps.cluster-rbzg5.rbzg5.sandbox178.opentlc.com/tssc/rhtap-qe-java-springboot:5e4f3d63535b15a1cab3ff3985583331e6275a79@sha256:e18dd68a627155667246e96009a8ed173743ff798a329226b6237f12e05a7911
+        - image: tssc-quay-quay-tssc-quay.apps.cluster-rbzg5.rbzg5.sandbox178.opentlc.com/tssc/rhtap-qe-java-springboot:140978c9a2b30e13924110f57e937c65de878436@sha256:26057f4cbb9eccb6d66c57d23f669511a83cd2c7cf1460121f50c193c0178328
           name: container-image
